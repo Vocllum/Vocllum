@@ -10,7 +10,7 @@
     ██        ██████      ████████  ██████████  ██████████    ██████    ██      ██
 </pre>
 
-<sub>AI agents &nbsp;·&nbsp; Workflows &nbsp;·&nbsp; Music &nbsp;·&nbsp; Illustration &nbsp;·&nbsp; Video &nbsp;·&nbsp; Graphic design</sub>
+<sub>AI agents &nbsp;·&nbsp; Workflows &nbsp;·&nbsp; Music &nbsp;·&nbsp; Visual design</sub>
 
 </div>
 
